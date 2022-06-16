@@ -1,0 +1,32 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#in{
+	position: absolute;
+	left: 550px;
+	top: 50px;
+
+}
+#te{
+	position: absolute;
+	left: 250px;
+	top: 50px;
+	width: 800px;
+	height: 600px;
+	top: 100px;
+	background-color: #ffff99;
+	box-shadow: 0px 0px 100px 0px yellow;
+	border-radius: 20px;
+	border-width: 10px;
+	border-color: #e6e600;
+	font-family: cursive;
+	font-size: 20px; 
+	text-align: center;
+
+}
+body{
+	background-image: url(../pic/pic6.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}

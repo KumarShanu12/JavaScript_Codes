@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#sub{
+	position: absolute;
+	left: 400px;
+	top: 300px;
+	width: 600px;
+	height: 40px;
+	font-size: 20px;
+	font-family: cursive;
+	background-color: blue;
+
+
+}
+#body1{
+	background-image: url(../pic/pic1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#hea{
+	position: absolute;
+	left: 350px;
+	top:200px;
+	color: green;
+	font-size: 50px;
+
+}
+#res{
+	position: absolute;
+	left: 900px;
+	top:200px;
+	color: green;
+	font-size: 50px;
+}
+#body2{
+	background-image: url(../pic/pic2.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#Pending{
+	position: relative;
+	left: 400px;
+	top: 30px;
+	width: 400px;
+}
+#Covered{
+	position: relative;
+	left: 400px;
+	top: 100px;
+		width: 400px;
+}
+#Pending h1{
+	font-size: 50px;
+	color: red;
+}
+#Covered h1{
+	font-size: 50px;
+	color: red;
+}
+#DesignButton{
+	position: absolute;
+	left: 380px;
+	top: 150px;
+	width: 150px;
+}
+#CollectionButton{
+	position: absolute;
+	left: 380px;
+	top: 215px;
+	width: 150px;
+}
+#exceptionButton{
+	position: absolute;
+	left: 380px;
+	top: 280px;
+	width: 150px;
+}
+body{
+	background-image: url(../pic/pic1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#l1{
+	font-size: 40px;
+	color: #00b33c;
+}
+#l2{
+	font-size: 40px;
+		color: #00b33c;
+
+}
+#l3{
+	font-size: 40px;
+		color: #00b33c;
+
+}
+#hh{
+	font-size: 50px;
+
+}
+#kk{
+	font-size: 50px;
+	
+}
+button:hover{
+	background-color: green;
+}

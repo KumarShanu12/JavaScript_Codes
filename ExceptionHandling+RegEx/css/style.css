@@ -1,0 +1,156 @@
+*{
+	background-color: #ffaa80;
+	margin: 5px;
+	padding: 0px;
+}
+
+
+#reg1{
+	position: relative;
+	left: 50px;
+	top: 40px;
+	font-family: cursive;
+}
+#btn1{
+		position: relative;
+		left: 1100px;
+		width: 200px;
+		background-color: #ff6666;
+		
+		
+}
+#reg2{
+	position: relative;
+	left: 40px;
+	top: 60px;
+	font-family: cursive;
+
+}
+#btn2{
+		position: relative;
+		left: 1100px;
+		width: 200px;
+		top: 10px;
+				background-color: #ff6666;
+
+
+}
+#reg3{
+	position: relative;
+	left: 40px;
+	top: 90px;
+	font-family: cursive;
+}
+#btn3{
+		position: relative;
+		left: 1100px;
+		width: 200px;
+		top: 40px;
+				background-color: #ff6666;
+
+}
+#reg4{
+	position: relative;
+	left: 40px;
+	top: 130px;
+	font-family: cursive;
+}
+#btn4{
+		position: relative;
+		left: 1100px;
+		width: 200px;
+		top: 80px;
+
+				background-color: #ff6666;
+
+}
+#reg5{
+	position: relative;
+	left: 40px;
+	top: 130px;
+	font-family: cursive;
+}
+#btn5{
+		position: relative;
+		left: 1100px;
+		width: 200px;
+		top: 80px;
+				background-color: #ff6666;
+
+}
+#res{
+
+   position: absolute;
+   font-size: 50px;
+   color: green;
+   width: 800px;
+   height: 100px;
+   left: 300px;
+   top: 600px;
+   text-align: center;
+}
+#btn1:hover{
+	background-color: green;
+	font-size: 15px;
+}
+#btn2:hover{
+	font-size: 15px;
+
+	background-color: green;
+}#btn3:hover{
+	font-size: 15px;
+
+	background-color: green;
+}#btn4:hover{
+	font-size: 15px;
+
+	background-color: green;
+}#btn5:hover{
+	font-size: 15px;
+
+	background-color: green;
+}
+
+.cc{
+	animation: anim;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
+}
+@keyframes anim{
+
+0%{color: red}
+25%{color: pink}
+50%{color: yellow}
+75%{color: black}
+100%{color: green}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

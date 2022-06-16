@@ -1,0 +1,121 @@
+*{
+	margin: 10px;
+	padding: 10px;
+	background-color: pink;
+}
+.container{
+	position: relative;
+}
+#pic1{
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	left: 200px;
+}
+#pic2{
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	left: 600px;
+}
+#pic3{
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	left: 1000px;	
+}
+#pic4{
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	top: 300px;
+	left: 600px;	
+}
+#pic5{
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	top: 300px;
+	left: 200px;	
+}
+#pic6{
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	top: 300px;
+	left: 1000px;
+	
+}
+#btnSet{
+	position: absolute;
+	top: 620px;
+	left: 350px;
+	height: 100px;
+	width: 700px;
+	font-size: 30px;
+	background-color: green;
+	font-family: cursive;
+}
+
+#label1{
+	position: absolute;
+	left: 270px;
+	top: 230px;
+}
+#label2{
+	position: absolute;
+		top: 230px;
+		left: 670px;
+}
+#label3{
+	position: absolute;
+		top: 230px;
+		left: 1070px;
+}
+#label4{
+	position: absolute;
+		top: 520px;
+		left: 270px;
+}
+#label5{
+	position: absolute;
+		top: 520px;
+		left: 670px;
+
+}
+#label6{
+	position: absolute;
+		top: 520px;
+		left: 1070px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

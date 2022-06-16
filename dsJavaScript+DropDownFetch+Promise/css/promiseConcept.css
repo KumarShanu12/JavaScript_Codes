@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+#btn{
+	position: absolute;
+	left: 500px;
+	width: 400px;
+	height: 40px;
+	top: 20px;
+	background-color: red;
+
+}
+#show{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	color: white;
+}
+body{
+	background-image: url(../pic/pic5.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}

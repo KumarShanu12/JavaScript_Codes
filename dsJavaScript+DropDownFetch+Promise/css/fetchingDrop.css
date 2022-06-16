@@ -1,0 +1,25 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Piedra', cursive;
+}
+#sel{
+	position: absolute;
+	left: 400px;
+	top: 150px;
+	width: 500px;
+	height: 30px;
+}
+body{
+	background-image: url(../pic/pic3.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#he{
+	position: absolute;
+	left: 440px;
+	color: white;
+	font-size:  80px;
+
+
+}

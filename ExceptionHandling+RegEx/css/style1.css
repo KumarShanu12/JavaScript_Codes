@@ -1,0 +1,80 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#age{
+	position: absolute;
+	left: 500px;
+	top: 150px;
+	height: 50px;
+	width: 300px;
+	font-size: 50px;
+	text-align: center;
+	border-width: 20px;
+
+}
+#l{
+	position: absolute;
+	color: green;
+	left: 480px;
+	font-family: cursive;
+	top: 10px;
+	font-size: 60px;
+		background-image: none;
+
+}
+#sub{
+	position: absolute;
+	left: 520px;
+	top: 300px;
+	width: 300px;
+	color: red;
+	border-radius: 50%;
+	font-size: 20px;
+	font-family: cursive;
+	background-image: none;
+	outline: none;
+
+}
+#mm{
+	position: absolute;
+	top: 500px;
+	left: 420px;
+	font-size: 40px;
+	color: red;
+}
+#sub:hover{
+	background-color: pink;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

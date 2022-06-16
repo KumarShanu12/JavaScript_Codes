@@ -1,0 +1,98 @@
+*{
+	background-color: #ccffcc;
+	/*background-image: url(../pics/age.png);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+m{
+	font-family: 'Black Ops One', cursive;
+	font-size: 40px;
+	animation-name: anim;
+	animation-duration:  7s;
+		animation-iteration-count: infinite;
+
+
+}
+.container{
+	position: relative;
+	left: 400px;
+	top: 100px;
+	width: 400px;
+	height: 500px;
+	background: unset;
+
+}
+#btn1{
+
+	position: absolute;
+	width: 200px;
+	height: 100px;
+	left: 140px;
+	top: 20px;
+	border-radius: 50%;
+	border-width: 10px;
+	outline: none;
+
+
+}
+#res{
+
+	position: absolute;
+	width: 700px;
+	height: 100px;
+	left: 70px;
+	top: 200px;
+	color: red;
+
+}
+#btn1:hover{
+	background-color: red;
+}
+#tagg{
+	position: absolute;
+	left: 500px;
+	font-size: 20px;
+
+
+
+}
+@keyframes anim{
+
+0%{color: red}
+25%{color: yellow}
+50%{color: green}
+75%{color: red}
+100%{color: black}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
