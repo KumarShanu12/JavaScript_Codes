@@ -1,0 +1,164 @@
+*{
+margin: 0 px;
+padding: 0px;
+
+}
+.container1{
+	position: relative;
+	left: 450px;
+	top: 170px;
+	width: 500px;
+	height: 500px;
+	background-color: #bfbfbf;
+	 box-shadow: 0px 0px 4000px rgba(100,0,0,1);
+}
+.form{
+	position: relative;
+	top: 30px;
+
+}
+#r{
+	position: absolute;
+	width: 400px;
+	left: 530px;
+	top: 100px;
+	font-family: Helvetica;
+	text-shadow: 2px 2px 5px #ff3385;
+	font-size: 40px;
+
+}
+#name{
+	position: absolute;
+	left: 250px;
+	padding: 5px;
+}
+
+.luser{
+	position: absolute;
+	top: 10px;
+	left: 80px;
+	font-family: Rockwell;
+}
+.lemail{
+
+    font-family: Rockwell;
+	position: absolute;
+	top: 80px;
+	left: 100px;
+}
+#email{
+	position: absolute;
+	top: 75px;
+	left: 250px;
+	padding: 5px;
+	
+}
+.lpassword{
+	font-family: Rockwell;
+	position: absolute;
+	top: 160px;
+	left: 90px;
+}
+#password{
+	position: absolute;
+	top: 150px;
+	left: 250px;
+	padding: 5px;
+}
+.rpassword{
+	font-family: Rockwell;
+	position: absolute;
+	top: 250px;
+	left: 80px;
+
+}
+#rpassword{
+	position: absolute;
+	top: 240px;
+	left: 250px;
+	padding: 5px;
+}
+.mob{
+	font-family: Rockwell;
+	position: absolute;
+	top: 350px;
+	left: 100px;
+}
+#Mobile{
+	position: absolute;
+	top: 340px;
+	left: 250px;
+	padding: 5px;
+}
+.btn{
+	position: absolute;
+	width:400px;
+	top: 430px;
+	left: 50px;
+	background-color: #6699ff;
+}
+
+.btn:hover{
+
+	color: red;
+	background-color: #ff9900;
+}
+.not1{
+	position: absolute;
+	top: 1px;
+	left: 500px;
+	width: 200px;
+	height: 30px;
+}
+.not2{
+	position: absolute;
+	top: 75px;
+	left: 500px;
+	width: 200px;
+	height: 30px;
+}
+.not3{
+	position: absolute;
+	top: 150px;
+	left: 500px;
+	width: 200px;
+	height: 30px;
+}
+.not4{
+	position: absolute;
+	top: 235px;
+	left: 500px;
+	width: 200px;
+	height: 30px;
+}
+.not5{
+	position: absolute;
+	top: 340px;
+	left: 500px;
+	width: 200px;
+	height: 30px;
+}
+
+.regimg img{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 30px;
+	top: -95px;
+	border-radius: 20%;
+
+}
+.btn1{
+	position: absolute;
+	width:400px;
+	top: 430px;
+	left: 50px;
+	background-color: #6699ff;
+}
+
+.btn1:hover{
+
+	color: red;
+	background-color: #ff9900;
+
+
